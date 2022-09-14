@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcin Luba
 - 👀 I’m interested in Blockchain Tech, React and Service Now
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me - luba.dev
+- 📫 How to reach me - lubadev.netlify.app
 - 🏃 I'm a runner seeking for Runner's High
 - :godmode: I'm master of meditation
 
